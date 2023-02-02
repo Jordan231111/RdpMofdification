@@ -15,7 +15,7 @@
 #### 1. First download this script in Linux Environment
 
 ~~~
-wget -O RDP.sh https://raw.githubusercontent.com/proavipatil/Windows-11-VPS/main/RDP.sh
+wget -O RDP.sh https://raw.githubusercontent.com/scatcat5isdead/Windows-11-VPS/main/RDP.sh
 ~~~
 
 #### 2. Now make executable
