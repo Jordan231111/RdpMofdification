@@ -5,7 +5,7 @@
 
 <br>
 
-### Using Medthod
+### Using Method
 
 
 - *Open This : https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1*
@@ -49,4 +49,3 @@ DON'T RECODE THIS SC!
 ```
 ---
 
-#### Main Repository : https://github.com/proavipatil/Windows-11-VPS
